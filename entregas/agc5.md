@@ -89,7 +89,7 @@ La prueba T10 demuestra que el procesamiento debe mantenerse dentro de la capaci
 
 ## Evidencia
 
-- Video: [Video Lab 10](https://drive.google.com/file/d/1C3XWAEXZCjNdK77zvu0r5q5ROFSoURqD/view?usp=drivesdk)
+- Video: [Video Lab 10](https://drive.google.com/file/d/1YyHN5_b0uSgsOGB5EZVfHOVs4ZIKvN2D/view?usp=drivesdk)
 - PDF: [Reporte Lab 10](https://drive.google.com/file/d/1MQ3jFEZvEI0QiQ3XxAQiFh-Eo8v2HXbc/view?usp=drivesdk)
 
 
